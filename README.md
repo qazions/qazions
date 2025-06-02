@@ -87,9 +87,9 @@ Video call link: https://meet.google.com/ehe-ezjb-cye
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/qazi-muneeb-ur-rahman-4b8b707a"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="rehman_qazi@outlook.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/qazions/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/qazi-muneeb-ur-rahman-4b8b707a"> in </a>
+<a href="rehman_qazi@outlook.com">outlook</a>
+<a href="https://www.instagram.com/qazions/">insta</a>
  </p>
 
 <br>
