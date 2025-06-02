@@ -31,10 +31,10 @@ Video call link: https://meet.google.com/ehe-ezjb-cye
     </td>
 
   <td align='center' width="200">
-        <img src=""  >
+        <img src="https://i.postimg.cc/T38Gg0Xs/download.jpg"  >
     </td>
  <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fnextjs-icon-dark-background.png?alt=media&token=fe7213b5-5848-4391-b293-77118f3cb456">
+        <img src="https://i.postimg.cc/LsDpdMZd/unity-logo-png-seeklogo-274050.png">
     </td>
  <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
