@@ -14,7 +14,7 @@
 
 🧩 Creative Puzzle & Logic Game Design – Experience in designing games that challenge logic, reflexes, and strategy, with unique mechanics and scalable difficulty.
 
-💼 Full-Cycle Game Development – From idea to final build: game concepting, UI/UX, development, polish, optimization, and store deployment.
+💼 Full-Cycle Game Development – From idea to final build: game concepting, polish, optimization, Integrate Ads with mediation and IAP store deployment.
 
 📧 setup A general meeting for project discussion
 
@@ -27,11 +27,11 @@ Video call link: https://meet.google.com/ehe-ezjb-cye
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fopenai-chatgpt-logo-icon-free-png.webp?alt=media&token=7f1e7f67-d80a-4e04-9d39-c37007c3f547" >
+        <img src="https://i.postimg.cc/wBQ66mZG/download.png" >
     </td>
 
   <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fgoogle-ai-gemini91216.logowik.com.webp?alt=media&token=2e4ad51e-4dec-4382-927b-0c2fdf5faa46"  >
+        <img src=""  >
     </td>
  <td align='center' width="200">
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fnextjs-icon-dark-background.png?alt=media&token=fe7213b5-5848-4391-b293-77118f3cb456">
