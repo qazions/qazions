@@ -86,10 +86,7 @@ Video call link: https://meet.google.com/ehe-ezjb-cye
 
 </table>
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/qazi-muneeb-ur-rahman-4b8b707a"> in </a>
-<a href="rehman_qazi@outlook.com">outlook</a>
-<a href="https://www.instagram.com/qazions/">insta</a>
+
  </p>
 
 <br>
