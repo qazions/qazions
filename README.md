@@ -40,7 +40,7 @@ Video call link: https://meet.google.com/ehe-ezjb-cye
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://i.postimg.cc/vZn6vsdx/download-1.png">
     </td>
 
 </tr>
