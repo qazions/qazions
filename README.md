@@ -26,20 +26,20 @@ Video call link: https://meet.google.com/ehe-ezjb-cye
 
 <table width="100">
 <tr>
-    <td align='center' width="200">
+    <td align='center' width="100">
         <img src="https://i.postimg.cc/wBQ66mZG/download.png" >
     </td>
 
-  <td align='center' width="200">
+  <td align='center' width="100">
         <img src="https://i.postimg.cc/T38Gg0Xs/download.jpg"  >
     </td>
- <td align='center' width="200">
+ <td align='center' width="100">
         <img src="https://i.postimg.cc/LsDpdMZd/unity-logo-png-seeklogo-274050.png">
     </td>
- <td align='center' width="200">
+ <td align='center' width="100">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
     </td>
- <td align='center' width="200">
+ <td align='center' width="100">
         <img src="https://i.postimg.cc/vZn6vsdx/download-1.png">
     </td>
 
