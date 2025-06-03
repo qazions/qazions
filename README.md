@@ -50,7 +50,7 @@ Video call link: https://meet.google.com/ehe-ezjb-cye
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="">
+        <img src="https://i.postimg.cc/ZYDBtRby/download-2.png">
     </td>
  <td align='center'>
         <img src="" >
